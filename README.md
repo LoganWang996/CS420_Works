@@ -5,4 +5,4 @@ A1: A program that uses oepnGL to create a height field based on the data from a
 
 A2: A program that uses Catmull-Rom splines along with OpenGL lighting and texture mapping to create a roller coaster simulation.
 
-A3: A self-implemented ray tracer program that can handle opaque surfaces with lighting and shadows. 
+A3: A self-implemented ray tracer program that can handle opaque surfaces with lighting and shadows.
