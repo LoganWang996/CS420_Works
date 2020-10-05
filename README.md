@@ -1,5 +1,4 @@
-# CS420_Works
-CSCI-420 assignments and projects at USC.
+# Computer Graphics Projects
 
 A1: A program that uses oepnGL to create a height field based on the data from an image which the user specifies at the command line, and allow the user to manipulate the height field in three dimensions by rotating, translating, or scaling it.
 
